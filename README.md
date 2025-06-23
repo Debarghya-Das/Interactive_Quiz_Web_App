@@ -27,7 +27,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/interactive-quiz-app.git
+git clone https://github.com/Debarghya-Das/Interactive_Quiz_Web_App.git
 Open index.html in your browser.
 
 📂 File Structure
